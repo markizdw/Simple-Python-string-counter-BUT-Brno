@@ -1,3 +1,3 @@
-# String counter
+# Projects for uni
 
-This repository contains string counter developed in Python using VS Code as a project at my uni :)
+This repository contains projects built for my coding classes in BUT in Brno.
